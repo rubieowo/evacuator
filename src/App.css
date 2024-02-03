@@ -1,0 +1,10 @@
+.bg-img {
+  width: 0;
+  height: 0;
+}
+.aaa {
+  margin-top: 2.5rem;
+  height: 50rem;
+  width: 100rem;
+  filter: brightness(43%);
+}
